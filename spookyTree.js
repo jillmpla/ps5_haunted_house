@@ -1,4 +1,3 @@
-//spooky tree with toggleable glowing face
 class SpookyTree {
     constructor(x, y) {
         this.x = x;

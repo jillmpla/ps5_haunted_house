@@ -1,4 +1,3 @@
-//bat class with flight animation and click interaction
 class Bat {
     constructor(x, y) {
         this.x = x;

@@ -37,3 +37,5 @@ Desktop.ini
 
 # Ignore compiled Sass/CSS if using preprocessors
 *.sass-cache
+
+.idea/

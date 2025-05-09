@@ -1,4 +1,3 @@
-//skeleton class that walks out every 7 seconds
 class Skeleton {
     constructor(x, y) {
         this.startX = x;
