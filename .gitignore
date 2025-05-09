@@ -1,0 +1,39 @@
+# Node modules (if you ever add a local dev server or build tools)
+node_modules/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional but common)
+.vscode/
+
+# Log files
+*.log
+
+# Build artifacts (not used in basic p5.js but safe to include)
+dist/
+build/
+
+# macOS metadata
+*.DS_Store
+
+# Windows metadata
+ehthumbs.db
+Desktop.ini
+
+# Backup files
+*.bak
+*.tmp
+*~
+
+# Cache and temporary
+.cache/
+.temp/
+
+# Environment/Secrets (if you ever add them)
+.env
+.env.local
+
+# Ignore compiled Sass/CSS if using preprocessors
+*.sass-cache
